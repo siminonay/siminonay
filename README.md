@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi There!
 
-<!--
-**siminonay/siminonay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 👩🏻‍💻
+* Software engineer currently working at Vodafone.
+* Love playing tennis.
 
-Here are some ideas to get you started:
+![Simin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siminonay&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages 💭
+<img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" /> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" />  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" /> 
+
+<img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" /> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" /> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" /> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" /> 
+
+## Contact Me 📩
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/siminonay/) 
+
