@@ -25,5 +25,5 @@
 
 ### Contact 📩
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/siminonay/) 
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="40px" />](https://www.linkedin.com/in/siminonay/) 
 
